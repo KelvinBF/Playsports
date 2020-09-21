@@ -272,11 +272,11 @@ header {
 
 .card.features:hover {
     transform: translateY(-3px);
-    -moz-box-shadow: 0px 5px 30px 0px rgba(0, 0, 0, 0.08);
-    -webkit-box-shadow: 0px 5px 30px 0px rgba(0, 0, 0, 0.08);
-    box-shadow: 0px 5px 30px 0px rgba(0, 0, 0, 0.08);
+    -moz-box-shadow: 0px 5px 30px 0px rgba(248, 175, 126, 0.678);
+    -webkit-box-shadow: 0px 5px 30px 0px rgba(248, 175, 126, 0.678);
+    box-shadow: 0px 5px 30px 0px rgba(248, 175, 126, 0.678);
 }
-
+/* 
 .box-icon {
     box-shadow: 0px 0px 43px 0px rgba(0, 0, 0, 0.14);
     padding: 10px;
@@ -284,7 +284,7 @@ header {
     border-radius: 3px;
     margin-bottom: 1.5rem;
     background-color: #FFF;
-}
+} */
 
 .ui-steps li:hover .circle-icon {
     background-image: -moz-linear-gradient( 122deg, orangered 0%, gray 100%);
@@ -295,14 +295,14 @@ header {
     color: #FFF;
 }
 
-.ui-steps li {
+/* .ui-steps li {
     padding: 15px 0;
-}
+} */
 
-.perspective-phone {
+/* .perspective-phone {
     position: relative;
     z-index: -1;
-}
+} */
 
 @media (min-width:992px) {
     .perspective-phone {
@@ -311,10 +311,10 @@ header {
 }
 
 
-.owl-theme .owl-dots .owl-dot.active span {
+/* .owl-theme .owl-dots .owl-dot.active span {
     background:black;
     box-shadow: 0px 9px 32px 0px rgba(0, 0, 0, 0.07);
-}
+} */
 
 /*  FOOTER
 ----------------------*/
@@ -325,7 +325,6 @@ header {
 
 .social-icons a {
     background-color: #FFF;
-    /* box-shadow: 0px 0px 21px 0px rgba(0, 0, 0, 0.05); */
     width: 50px;
     height: 50px;
     display: inline-block;
@@ -336,17 +335,17 @@ header {
     transition: all 0.3s ease;
 }
 
-.social-icons a:hover {
+/* .social-icons a:hover {
     text-decoration: none;
    
-}
+} */
 
-@media (max-width:991px) {
+/* @media (max-width:991px) {
     .social-icons {
         text-align: center;
         margin-top: 2rem;
-    }
-}
+    } */
+
 
   /* Whatspp flot */
 
