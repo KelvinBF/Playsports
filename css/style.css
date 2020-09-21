@@ -109,7 +109,7 @@ p.lead {
 ----------------------*/
 
 .nav-menu {
-    padding: 1rem 0;
+   
     transition: all 0.3s ease;
 }
 .navbar-dark .navbar-nav .active > .nav-link, .navbar-dark .navbar-nav .nav-link.active, .navbar-dark .navbar-nav .nav-link.show, .navbar-dark .navbar-nav .show > .nav-link {
@@ -135,6 +135,7 @@ background-color: #fff;
 }
 .nav-menu.is-scrolling {
     padding: 0;
+    box-shadow: 0.1em 0.1em 0.2em #b0b0b0;
 }
 
 .navbar-nav .nav-link {
