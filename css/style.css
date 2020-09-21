@@ -276,15 +276,7 @@ header {
     -webkit-box-shadow: 0px 5px 30px 0px rgba(248, 175, 126, 0.678);
     box-shadow: 0px 5px 30px 0px rgba(248, 175, 126, 0.678);
 }
-/* 
-.box-icon {
-    box-shadow: 0px 0px 43px 0px rgba(0, 0, 0, 0.14);
-    padding: 10px;
-    width: 70px;
-    border-radius: 3px;
-    margin-bottom: 1.5rem;
-    background-color: #FFF;
-} */
+
 
 .ui-steps li:hover .circle-icon {
     background-image: -moz-linear-gradient( 122deg, orangered 0%, gray 100%);
@@ -295,14 +287,7 @@ header {
     color: #FFF;
 }
 
-/* .ui-steps li {
-    padding: 15px 0;
-} */
 
-/* .perspective-phone {
-    position: relative;
-    z-index: -1;
-} */
 
 @media (min-width:992px) {
     .perspective-phone {
@@ -311,10 +296,7 @@ header {
 }
 
 
-/* .owl-theme .owl-dots .owl-dot.active span {
-    background:black;
-    box-shadow: 0px 9px 32px 0px rgba(0, 0, 0, 0.07);
-} */
+
 
 /*  FOOTER
 ----------------------*/
@@ -334,18 +316,6 @@ header {
     border-radius: 5px;
     transition: all 0.3s ease;
 }
-
-/* .social-icons a:hover {
-    text-decoration: none;
-   
-} */
-
-/* @media (max-width:991px) {
-    .social-icons {
-        text-align: center;
-        margin-top: 2rem;
-    } */
-
 
   /* Whatspp flot */
 
