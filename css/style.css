@@ -80,11 +80,15 @@ p.lead {
 
 .light-bg {
     background-color:#fff;
+
 }
 
+.pt-5, .py-5 {
+    padding-top: 200px !important;
+}
 .section {
     padding: 150px 0;
-    
+    padding-bottom: 0;
 }
 
 .section-title {
@@ -300,7 +304,6 @@ header {
 
 /*  FOOTER
 ----------------------*/
-
 .social-icons {
     text-align: right;
 }
@@ -316,6 +319,15 @@ header {
     border-radius: 5px;
     transition: all 0.3s ease;
 }
+
+
+@media (max-width:991px) {
+    .social-icons {
+        text-align: center;
+        margin-top: 2rem;
+    }
+}
+
 
   /* Whatspp flot */
 
